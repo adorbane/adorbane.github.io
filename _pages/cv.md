@@ -25,14 +25,14 @@ Work experience
   * Presented oral and written analysis at meetings and conferences to share research outcomes.
   * Carried out archive research to inform ongoing and new work.
   * Employed expert knowledge to design and deliver appropriate research approaches, adapting existing methods and utilizing new ones.
- * Advisor: Dr. Bilal Mansoor, Assistant Professor, Department of Mechanical Engineering, [Personal Web-page](https://engineering.tamu.edu/mechanical/profiles/mansoor-bilal.html)
+  * Advisor: Dr. Bilal Mansoor, Assistant Professor, Department of Mechanical Engineering, [Personal Web-page](https://engineering.tamu.edu/mechanical/profiles/mansoor-bilal.html)
 
 * Fall 2013 - Summer 2015: Research Associate (Texas A&M University at Qatar)
   * Collected large volumes of data with high accuracy.
   * Designed presentations summarizing research findings.
   * Used databases, physical records, and digital resources to complete deep Metallography and Mechanical Testing field of research.
   * Took part in the production of collaborative research reports and publications.
- * Advisor: Dr. Georges Ayoub, Associate Professor, Director of the Human-Centered Engineering Design program, College of Engineering and Computer Science, [Personal Web-page](https://umdearborn.edu/people-um-dearborn/georges-ayoub/)
+  * Advisor: Dr. Georges Ayoub, Associate Professor, Director of the Human-Centered Engineering Design program, College of Engineering and Computer Science, [Personal Web-page](https://umdearborn.edu/people-um-dearborn/georges-ayoub/)
   
 Skills
 ======
