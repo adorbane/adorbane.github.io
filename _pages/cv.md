@@ -43,7 +43,7 @@ Skills
    * Operating systems
    * Windows, MacOs, Linux
 * Technical skills
- * Testing and Characterization: Instron/MTS testing at different temperatures, Heat treatment and annealing of metallic materials, Metallography, Optical Microscopy (OM), Scanning Electron Microscopy (SEM) X-ray Diffraction (XRD), Digital Image Correlation (DIC), Energy Dispersive Spectroscopy (EDS), Chemical and electrochemical etching, Chemical reactions in GloveBox.
+  * Testing and Characterization: Instron/MTS testing at different temperatures, Heat treatment and annealing of metallic materials, Metallography, Optical Microscopy (OM), Scanning Electron Microscopy (SEM) X-ray Diffraction (XRD), Digital Image Correlation (DIC), Energy Dispersive Spectroscopy (EDS), Chemical and electrochemical etching, Chemical reactions in GloveBox.
  * Languages
    * English (Proficient reading, writing, and speaking)
    * French (Fluent reading, writing, and speaking)
