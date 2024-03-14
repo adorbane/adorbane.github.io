@@ -39,7 +39,7 @@ Skills
 * Computer Skills
  * Programming Languages
    * Python, Orange3, Matlab, Latex
-   * Operating systems
+ * Operating systems
    * Windows, MacOs, Linux
 
 * Technical skills
