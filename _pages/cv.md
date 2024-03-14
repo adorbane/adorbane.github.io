@@ -11,24 +11,26 @@ redirect_from:
 
 Education
 ======
-* 2013--2016: Ph.D., Materials Science and Engineering, Lille University of Science and Technology, France (Mechanical and Microstructural Characterization of a Dissimilar Friction Stirred Welded Aluminum-to-Magnesium Alloy Sheets)
-* 2009--2011: M.S. in Mechanical Engineering, Djillali Liabes University, Algeria
-* 2006--2009: B.E. in Mechanical Engineering, Djillali Liabes University, Algeria
+* 2013--2016: Ph.D., Materials Science and Engineering, Lille University of Science and Technology, France (Mechanical and Microstructural Characterization of a Dissimilar Friction Stirred Welded Aluminum-to-Magnesium Alloy Sheets).
+* 2009--2011: M.S. in Mechanical Engineering, Djillali Liabes University, Algeria.
+* 2006--2009: B.E. in Mechanical Engineering, Djillali Liabes University, Algeria.
 
 Work experience
 ======
 * Spring 2020: Assistant Professor
  * University of Ain Temouchent
 Employing machine learning techniques in various applications such as mechanical properties forecasting, predicting cutting forces in hard turning, and forecasting energy consumption in Photovoltaic's, Surface Fault classification in metallic sheets, etc.
+
 * Fall 2016 - Fall 2017: Postdoctoral Fellow
-  * Texas A&M University at Qatar
+  * Texas A&M University at Qatar.
   * Produced accurate supporting documentation and materials for research activities, including presentations and reports.
   * Presented oral and written analysis at meetings and conferences to share research outcomes.
   * Carried out archive research to inform ongoing and new work.
   * Employed expert knowledge to design and deliver appropriate research approaches, adapting existing methods and utilizing new ones.
  * Advisor: Dr. Bilal Mansoor, Assistant Professor, Department of Mechanical Engineering, [Personal Web-page](https://engineering.tamu.edu/mechanical/profiles/mansoor-bilal.html)
-* 2013 - 2015: Research Associate
-  * Texas A&M University at Qatar
+
+* Fall 2013 - Summer 2015: Research Associate
+  * Texas A&M University at Qatar.
   * Collected large volumes of data with high accuracy.
   * Designed presentations summarizing research findings.
   * Used databases, physical records, and digital resources to complete deep Metallography and Mechanical Testing field of research.
@@ -42,8 +44,10 @@ Skills
    * Python, Orange3, Matlab, Latex
    * Operating systems
    * Windows, MacOs, Linux
+
 * Technical skills
-  * Testing and Characterization: Instron/MTS testing at different temperatures, Heat treatment and annealing of metallic materials, Metallography, Optical Microscopy (OM), Scanning Electron Microscopy (SEM) X-ray Diffraction (XRD), Digital Image Correlation (DIC), Energy Dispersive Spectroscopy (EDS), Chemical and electrochemical etching, Chemical reactions in GloveBox.
+   * Testing and Characterization: Instron/MTS testing at different temperatures, Heat treatment and annealing of metallic materials, Metallography, Optical Microscopy (OM), Scanning Electron Microscopy (SEM) X-ray Diffraction (XRD), Digital Image Correlation (DIC), Energy Dispersive Spectroscopy (EDS), Chemical and electrochemical etching, Chemical reactions in GloveBox.
+ 
  * Languages
    * English (Proficient reading, writing, and speaking)
    * French (Fluent reading, writing, and speaking)
