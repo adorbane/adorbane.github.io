@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can also download my CV [here]()
+You can also download my CV [here](https://adorbane.github.io/files/A_Dorbane_Curriculum_Vitae.pdf)
 {% include base_path %}
 
 Education
