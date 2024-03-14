@@ -8,13 +8,3 @@ date: 2015-01-01
 location: "Texas A&M University at Qatar"
 ---
 
-This is a description of a teaching experience.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
