@@ -17,17 +17,17 @@ Education
 
 Work experience
 ======
-* Spring 2020: Assistant Professor (University of Ain Temouchent)
+* Spring 2020--present: Assistant Professor (University of Ain Temouchent)
   * Employing machine learning techniques in various applications such as mechanical properties forecasting, predicting cutting forces in hard turning, and forecasting energy consumption in Photovoltaic's, Surface Fault classification in metallic sheets, etc.
 
-* Fall 2016 - Fall 2017: Postdoctoral Fellow (Texas A&M University at Qatar)
+* Fall 2016--Fall 2017: Postdoctoral Fellow (Texas A&M University at Qatar)
   * Produced accurate supporting documentation and materials for research activities, including presentations and reports.
   * Presented oral and written analysis at meetings and conferences to share research outcomes.
   * Carried out archive research to inform ongoing and new work.
   * Employed expert knowledge to design and deliver appropriate research approaches, adapting existing methods and utilizing new ones.
   * Advisor: Dr. Bilal Mansoor, Assistant Professor, Department of Mechanical Engineering, [Personal Web-page](https://engineering.tamu.edu/mechanical/profiles/mansoor-bilal.html)
 
-* Fall 2013 - Summer 2015: Research Associate (Texas A&M University at Qatar)
+* Fall 2013--Summer 2015: Research Associate (Texas A&M University at Qatar)
   * Collected large volumes of data with high accuracy.
   * Designed presentations summarizing research findings.
   * Used databases, physical records, and digital resources to complete deep Metallography and Mechanical Testing field of research.
