@@ -39,15 +39,15 @@ Skills
 ======
 * Computer Skills
  * Programming Languages
-  * Python, Orange3, Matlab, Latex
-  * Operating systems
-  * Windows, MacOs, Linux
+   * Python, Orange3, Matlab, Latex
+   * Operating systems
+   * Windows, MacOs, Linux
 * Technical skills
  * Testing and Characterization: Instron/MTS testing at different temperatures, Heat treatment and annealing of metallic materials, Metallography, Optical Microscopy (OM), Scanning Electron Microscopy (SEM) X-ray Diffraction (XRD), Digital Image Correlation (DIC), Energy Dispersive Spectroscopy (EDS), Chemical and electrochemical etching, Chemical reactions in GloveBox.
  * Languages
-  * English (Proficient reading, writing, and speaking)
-  * French (Fluent reading, writing, and speaking)
-  * Arabic (Native reading, writing, and speaking)
+   * English (Proficient reading, writing, and speaking)
+   * French (Fluent reading, writing, and speaking)
+   * Arabic (Native reading, writing, and speaking)
 
 Publications
 ======
