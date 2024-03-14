@@ -4,4 +4,4 @@ title: 'International Program Committee Member'
 ---
 
 International Program Committee Member at the 2024 International Conference on Control, Automation and Diagnosis (ICCAD’24), May 15-17, 2024, Paris, France.
-paperurl: 'https://www.iccad-conf.com/committee/'
+url: 'https://www.iccad-conf.com/committee/'
