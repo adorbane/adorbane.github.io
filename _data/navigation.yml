@@ -1,4 +1,4 @@
-e# main links links
+# main links links
 main:
   - title: "Publications"
     url: /publications/
@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Conferences"
+    url: /conference/    
     
   - title: "Conference Papers"
     url: /portfolio/
