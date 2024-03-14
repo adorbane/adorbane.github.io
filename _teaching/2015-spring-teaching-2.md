@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Best Poster Award, First Place, Research Track"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Microstructural and Mechanical Properties of Friction Stirred welded AZ31B Magnesium Alloy Sheets"
+permalink: 
+venue: "Material Science and Engineering Symposium 2015, "
 date: 2015-01-01
-location: "City, Country"
+location: "Texas A&M University at Qatar"
 ---
 
 This is a description of a teaching experience.
