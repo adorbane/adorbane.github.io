@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+You can also download my CV [here]()
 {% include base_path %}
 
 Education
