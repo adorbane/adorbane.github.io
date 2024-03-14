@@ -1,7 +1,7 @@
 ---
 title: "A Tree-Driven Ensemble Learning Approach to Predict FS Welded Al-6061-T6 Material Behavior"
 collection: conferences
-type: "Conference"
+type: "Collection proceedings talks"
 permalink: /conferences/2022-09-07-conference
 venue: "7th International Conference on Frontiers of Signal Processing (ICFSP)"
 date: 2022-09-07
