@@ -19,7 +19,7 @@ Work experience
 ======
 * Spring 2020: Assistant Professor
  * University of Ain Temouchent
-Employing machine learning techniques in various applications such as mechanical properties forecasting, predicting cutting forces in hard turning, and forecasting energy consumption in Photovoltaic's, Surface Fault classification in metallic sheets, etc.
+   * Employing machine learning techniques in various applications such as mechanical properties forecasting, predicting cutting forces in hard turning, and forecasting energy consumption in Photovoltaic's, Surface Fault classification in metallic sheets, etc.
 
 * Fall 2016 - Fall 2017: Postdoctoral Fellow
   * Texas A&M University at Qatar.
