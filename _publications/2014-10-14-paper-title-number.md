@@ -1,7 +1,7 @@
 ---
 title: "Characterization of optimized friction stir welded twin roll cast AZ31B sheets"
 collection: publications
-permalink: adorbane.github.io/_publications/2014-10-14-paper-title-number.md
+permalink: publications/2014-10-14-paper-title-numbe
 excerpt: ''
 date: 2014-10-14
 venue: 'ASME Digital Collection'
