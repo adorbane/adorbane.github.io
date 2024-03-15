@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Awards and Honors"
-    url: /teaching/    
+#  - title: "Awards and Honors"
+#    url: /teaching/    
     
   - title: "Conference Contributions"
     url: /portfolio/
