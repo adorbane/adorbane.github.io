@@ -1,7 +1,7 @@
 ---
 title: "Energy consumption prediction in water treatment plants using deep learning with data augmentation"
 collection: publications
-permalink: https://www.sciencedirect.com/science/article/pii/S2590123023005558/pdfft?md5=b61d5f61f2a0e1865e25d44d314564aa&pid=1-s2.0-S2590123023005558-main.pdf
+permalink: files/energy-consumption-prediction.pdf
 excerpt: ''
 date: 2023-12-01
 venue: 'Results in Engineering'
