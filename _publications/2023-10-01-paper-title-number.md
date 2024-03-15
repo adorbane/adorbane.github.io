@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Prediction of Aluminum Alloy Stress--Strain Curves at Variable Temperatures with Failure Analysis"
 collection: publications
-permalink: files/JFAP_paper_2023.pdf
+permalink: 2023-machine-learning-aluminum-failure
 excerpt: ''
 date: 2023-12-14
 venue: 'Journal of Failure Analysis and Prevention'
