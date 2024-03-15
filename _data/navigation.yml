@@ -12,11 +12,11 @@ main:
   - title: "Conference Contributions"
     url: /portfolio/
         
-#  - title: "Blogs"
-#    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
+
+#  - title: "Blogs"
+#    url: /year-archive/
     
 #  - title: "Guide"
 #    url: /markdown/
