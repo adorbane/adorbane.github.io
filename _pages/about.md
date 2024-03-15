@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to My GitHub Page!
+## Welcome to My Personnal Page!
 
 ### Biography
 
