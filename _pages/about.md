@@ -14,3 +14,14 @@ redirect_from:
   * Machine Learning and its Applications.
   * Mechanical Behavior and Microstructural Characterization of Materials.
   * Experimental Analysis and Interpretation of Material Properties.
+
+
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XJYEVBG2V8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XJYEVBG2V8');
+</script>
