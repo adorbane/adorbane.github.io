@@ -6,14 +6,15 @@ main:
   - title: "Talks"
     url: /talks/    
 
-#  - title: "Awards and Honors"
-#    url: /teaching/    
-    
   - title: "Conference Contributions"
     url: /portfolio/
         
   - title: "CV"
     url: /cv/
+
+#  - title: "Awards and Honors"
+#    url: /teaching/   
+
 
 #  - title: "Blogs"
 #    url: /year-archive/
