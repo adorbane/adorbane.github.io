@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Abdelhakim DORBANE, Ph.D."
+title                    : "Abdelhakim's HomePage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,12 +22,12 @@ repository               : "adorbane/adorbane.github.io"
 author:
   # Biographic information
   avatar           : "hakim_squared.jpg"
-  name             : "Abdelhakim DORBANE"
+  name             : "Abdelhakim DORBANE, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning; Mechanical Behavior; Microstructural Characterization"
   location         : "Ain Temouchent, Algeria"
   employer         : "University of Ain Temouchent"
-  uri              : # URL
+  uri              : "https://www.univ-temouchent.edu.dz/"
   email            : "abdelhakim.dorbane@univ-temouchent.edu.dz" 
 
   # Academic websites
