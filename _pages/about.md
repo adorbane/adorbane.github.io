@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Hakim!"
+title: "Home page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Welcome to My Page! 🚀
+## 👋 Hello there, I'm Hakim, Welcome to My Page! 🚀
 
 ### Biography 📚
 
