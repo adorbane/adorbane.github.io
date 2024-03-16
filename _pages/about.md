@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## 👋 Hello there, I'm Hakim, Welcome to My Page! 🚀
+## 👋 Hello there, I'm Hakim, welcome to My Page! 🚀
 
 ### Biography 📚
 
