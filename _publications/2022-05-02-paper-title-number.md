@@ -1,7 +1,7 @@
 ---
 title: "Forecasting FSW Material’s Behavior using an Artificial Intelligence-Driven Approach"
 collection: publications
-permalink: forecasting-FSW-materials
+permalink: /publication/2022-forecasting-FSW-materials
 excerpt: ''
 date: 2022-05-02
 venue: 'IEEE Xplore'
