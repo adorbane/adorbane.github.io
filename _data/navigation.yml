@@ -6,14 +6,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Conference Contributions"
-    url: /portfolio/
+  - title: "Conferences Contributions"
+    url: /conferences/
         
   - title: "CV"
     url: /cv/
     
-  - title: "Conferences"
-    url: /conferences/
+#  - title: "Portefolio"
+#    url: /portfolio/
     
 #  - title: "Awards and Honors"
 #    url: /teaching/   
