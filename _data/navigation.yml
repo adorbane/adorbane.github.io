@@ -4,16 +4,16 @@ main:
     url: /publications/
        
   - title: "Talks"
-    url: /talks/    
-
+    url: /talks/   
+    
   - title: "Conferences Contributions"
-    url: /conferences/
+    url: /portfolio/
+
+#  - title: "Conferences Contributions"
+#    url: /conferences/
         
   - title: "CV"
     url: /cv/
-    
-#  - title: "Portefolio"
-#    url: /portfolio/
     
 #  - title: "Awards and Honors"
 #    url: /teaching/   
