@@ -11,7 +11,10 @@ main:
         
   - title: "CV"
     url: /cv/
-
+    
+  - title: "Conferences"
+    url: /conferences/
+    
 #  - title: "Awards and Honors"
 #    url: /teaching/   
 
