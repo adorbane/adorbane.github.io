@@ -21,13 +21,13 @@ repository               : "adorbane/adorbane.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hakim_squared.jpg"
+  avatar           : "DSC_0524_1.jpg"
   name             : "Abdelhakim DORBANE, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning; Mechanical Behavior; Microstructural Characterization"
   location         : "Ain Temouchent, Algeria"
   employer         : "University of Ain Temouchent"
-  uri              : "https://www.univ-temouchent.edu.dz/"
+  uri              : "https://adorbane.github.io/"
   email            : "abdelhakim.dorbane@univ-temouchent.edu.dz" 
 
   # Academic websites
