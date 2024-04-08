@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/assistant_Professor
 venue: "University of Ain Temouchent, Department of Mechanical Engineering"
-start_date: "2020"  # Replace with your start date
-end_date: "present"  # Or replace with your end date if it's available
+start_date: 2020
+end_date: present
 location: "Ain Temouchent, Algeria"
 ---
 
