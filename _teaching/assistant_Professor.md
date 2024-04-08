@@ -9,12 +9,12 @@ location: "Ain Temouchent, Algeria"
 ---
 below are the list of my teaching experience sorted by year
 
-Year (2023-2024)
+Academic Year 2023-2024
 ======
 - Heat and Mass Transfer (Undergraduate course)
 - Numerical Methods (Undergraduate course)
 
-Year (2022-2023)
+Academic Year 2022-2023
 ======
 - Fluid Mechanics (Graduate course)
 - Instrumentation & Measurements (Graduate course)
@@ -22,7 +22,7 @@ Year (2022-2023)
 - CAD/CAM (Graduate course)
 - Energy Auditing (Graduate course)
 
-Year (2021-2022)
+Academic Year 2021-2022
 ======
 - Instrumentation - Sensors (Undergraduate course)
 - Instrumentation & Measurements (Graduate course)
@@ -30,7 +30,7 @@ Year (2021-2022)
 - Heat Transfer (Undergraduate course)
 - CAD/CAM (Graduate course)
   
-Year (2020-2021)
+Academic Year 2020-2021
 ======
 - Instrumentation - Sensors (Undergraduate course)
 - Instrumentation & Measurements (Graduate course)
