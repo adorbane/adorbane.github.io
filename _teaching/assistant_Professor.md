@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/assistant_Professor
 venue: "University of Ain Temouchent, Department of Mechanical Engineering"
-date: 2020-present
+date: Spring 2020-present
 location: "Ain Temouchent, Algeria"
 ---
 
