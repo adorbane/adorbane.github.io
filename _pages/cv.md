@@ -60,7 +60,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Awards and Honors
+Teaching Experience
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
