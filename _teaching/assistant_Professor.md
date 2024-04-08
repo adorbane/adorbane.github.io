@@ -1,11 +1,10 @@
 ---
 title: "Assistant Professor"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and Master's courses"
 permalink: /teaching/assistant_Professor
 venue: "University of Ain Temouchent, Department of Mechanical Engineering"
-start_date: 2020
-end_date: present
+date: 2020-06-08
 location: "Ain Temouchent, Algeria"
 ---
 
