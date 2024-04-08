@@ -7,7 +7,7 @@ venue: "University of Ain Temouchent, Department of Mechanical Engineering"
 date: 2020-06-08
 location: "Ain Temouchent, Algeria"
 ---
-below are the list of my teaching experience sorted by year:
+Click on the blue link to reveal the courses I taught, sorted by academic year.
 
 Academic Year 2023-2024
 ======
