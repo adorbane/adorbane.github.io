@@ -8,26 +8,22 @@ date: 2020-06-08
 location: "Ain Temouchent, Algeria"
 ---
 
-
-
 2023-2024
 ======
-Heat and Mass Transfer (Undergraduate course)
-Numerical Methodes (Undergraduate course)
+- Heat and Mass Transfer (Undergraduate course)
+- Numerical Methods (Undergraduate course)
 
 2022-2023
 ======
 
-
 2021-2022
 ======
 
-
 2020-2021
 ======
-Instrumentation - Sensors (Undergraduate course)
-Instrumentation & Measurements (Graduate course)
-Heat Transfer (Undergraduate course)
-CAD/CAM (Graduate course)
-Energy Auditing (Graduate course)
-Resistance of Materials (Undergaduate course)
+- Instrumentation - Sensors (Undergraduate course)
+- Instrumentation & Measurements (Graduate course)
+- Heat Transfer (Undergraduate course)
+- CAD/CAM (Graduate course)
+- Energy Auditing (Graduate course)
+- Resistance of Materials (Undergraduate course)
