@@ -22,7 +22,7 @@ Year (2022-2023)
 - CAD/CAM (Graduate course)
 - Energy Auditing (Graduate course)
 
-Year (2021-2022}
+Year (2021-2022)
 ======
 - Instrumentation - Sensors (Undergraduate course)
 - Instrumentation & Measurements (Graduate course)
