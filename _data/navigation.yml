@@ -7,17 +7,16 @@ main:
     url: /talks/   
     
   - title: "Conferences Contributions"
-    url: /portfolio/
-
-#  - title: "Conferences Contributions"
-#    url: /conferences/
+    url: /conferences/
         
   - title: "CV"
     url: /cv/
     
-#  - title: "Awards and Honors"
-#    url: /teaching/   
+  - title: "Teaching"
+    url: /teaching/   
 
+#  - title: "Conferences Contributions"
+#    url: /portfolio/
 
 #  - title: "Blogs"
 #    url: /year-archive/
