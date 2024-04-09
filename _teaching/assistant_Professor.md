@@ -7,7 +7,7 @@ venue: "University of Ain Temouchent, Department of Mechanical Engineering"
 date: 2020-06-08
 location: "Ain Temouchent, Algeria"
 ---
-The list of my teaching materials are in the associated link
+The list of my teaching materials are sorted by academic years
 
 Academic Year 2023-2024
 ======
