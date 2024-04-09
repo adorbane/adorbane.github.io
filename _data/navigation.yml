@@ -8,14 +8,14 @@ main:
     
   - title: "Conferences Contributions"
     url: /conferences/
-        
+
+  - title: "Teaching Experience"
+    url: /teaching/  
+    
   - title: "CV"
     url: /cv/
     
-  - title: "Teaching Experience"
-    url: /teaching/   
-
-#  - title: "Conferences Contributions"
+ #  - title: "Conferences Contributions"
 #    url: /portfolio/
 
 #  - title: "Blogs"
