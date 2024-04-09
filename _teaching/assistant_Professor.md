@@ -1,5 +1,5 @@
 ---
-title: "Assistant Professor"
+title: "Assistant Professor at the University of Ain Temouchent"
 collection: teaching
 type: "Undergraduate and Master's courses"
 permalink: /teaching/assistant_Professor
